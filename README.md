@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Black Hole Cosmic Live Wallpaper Banner -->
-  <img src="assets/header.gif" width="100%" height="240" style="object-fit: cover; border-radius: 10px;" alt="Black Hole Cosmic Header" />
-
-  <br><br>
+  <!-- Center Glowing Red Ring with Continuous 360deg Spin -->
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1.2rem;">
+    <img src="assets/ring_spin.gif" width="340" height="340" style="mix-blend-mode: screen; border-radius: 50%;" alt="Glowing Red Ring" />
+  </div>
 
   <!-- Typing Header -->
   <a href="https://github.com/vishalm111">
@@ -14,7 +14,7 @@
     <strong>Machine Learning &bull; Deep Learning (TensorFlow/Keras) &bull; Power BI & Business Intelligence</strong>
   </p>
 
-  <!-- Connect Badges (Matching High-Contrast Standard) -->
+  <!-- Connect Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/vishal-m-98a0a530b" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,17 +22,8 @@
     <a href="mailto:vishalmv486@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://vishalm111.github.io/portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE_SITE-PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Site" />
-    </a>
-    <a href="https://vishalm111.github.io/portfolio/assets/Vishal_M_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME-PDF_DOWNLOAD-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
-    </a>
     <a href="https://wa.me/918904466631" target="_blank">
       <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://github.com/vishalm111?tab=repositories">
-      <img src="https://img.shields.io/badge/PUBLIC_REPOS-13-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
     </a>
   </p>
 
@@ -227,14 +218,6 @@ My engineering philosophy centers on grounding algorithmic modeling in rigorous 
   &nbsp;&nbsp;
   <a href="mailto:vishalmv486@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vishalm111.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Live_Site-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Site" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vishalm111.github.io/portfolio/assets/Vishal_M_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF_Download-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/918904466631">
