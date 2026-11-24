@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Center Glowing Red Ring with Continuous 360deg Spin -->
-  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1.2rem;">
-    <img src="assets/ring_spin.gif" width="340" height="340" style="mix-blend-mode: screen; border-radius: 50%;" alt="Glowing Red Ring" />
-  </div>
+  <!-- Animated Solar System Banner -->
+  ![Solar System](./solar-system.svg)
+
+  <br/><br/>
 
   <!-- Typing Header -->
   <a href="https://github.com/vishalm111">
@@ -21,6 +21,12 @@
     </a>
     <a href="mailto:vishalmv486@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://vishalm111.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://vishalm111.github.io/portfolio/assets/Vishal_M_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
     <a href="https://wa.me/918904466631" target="_blank">
       <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -212,7 +218,7 @@ My engineering philosophy centers on grounding algorithmic modeling in rigorous 
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vishal-m-98a0a530b">
+  <a href="https://www.linkedin.com/in/vishal-m-98a0a530b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -220,7 +226,15 @@ My engineering philosophy centers on grounding algorithmic modeling in rigorous 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/918904466631">
+  <a href="https://vishalm111.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vishalm111.github.io/portfolio/assets/Vishal_M_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/918904466631" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
