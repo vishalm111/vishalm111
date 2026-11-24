@@ -23,10 +23,10 @@
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://vishalm111.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://vishalm111.github.io/portfolio/assets/Vishal_M_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/RESUME-D97706?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
     </a>
     <a href="https://wa.me/918904466631" target="_blank">
       <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -227,11 +227,11 @@ My engineering philosophy centers on grounding algorithmic modeling in rigorous 
   </a>
   &nbsp;&nbsp;
   <a href="https://vishalm111.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://vishalm111.github.io/portfolio/assets/Vishal_M_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME-D97706?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/918904466631" target="_blank">
